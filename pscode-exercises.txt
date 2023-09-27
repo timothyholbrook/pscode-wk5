@@ -57,6 +57,8 @@ End
 
 Find maximum of 5 numbers
 
+Input num1, num2, num3, num4, num5
+
 Max = num1
 
 Is num2 > Max
@@ -64,15 +66,15 @@ Yes = Max = num 2
 No = Max not changed
 
 Is num3 > Max
+Yes = Max = num 3
+No = Max not changed
+
+Is num4 > Max
 Yes = Max = num 4
 No = Max not changed
 
-Is num5 > Max
+Is num5 >  Max
 Yes = Max = num 5
-No = Max not changed
-
-Is num2 4> Max
-Yes = Max = num 2
 No = Max not changed
 
 Print Max
