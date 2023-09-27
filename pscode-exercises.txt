@@ -27,7 +27,9 @@ a)
 var (num1, num2, num3, num4, num5)
 
 b) 
-num1 + num2 + num3 + num4 + num5 / 5
+num1 + num2 + num3 + num4 + num5 / 5 = average
+print average
+end
 
 c) 
 Find minimum of 5 num
