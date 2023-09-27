@@ -80,7 +80,7 @@ End
 
 d)
 Start
-Set message = "These results are the minimum and maximum of 5 enter numbers."
+Set message = "These results are the minimum and maximum of 5 numbers."
 Display message
 End
 
